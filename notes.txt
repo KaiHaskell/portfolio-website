@@ -3,3 +3,5 @@ NOTES OF THINGS I DON'T UNDERSTAND
 1. Several images were linked in the CSS.
 
 2. There were multiple JS files that I did not understand what they did.
+
+3. I messed around with the javascript in order to make my images clickable in my portfolio
